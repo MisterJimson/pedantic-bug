@@ -17,6 +17,9 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
+  pedantic: ^1.8.0+1
+  inner_lib:
+    path: inner_lib/
   flutter:
     sdk: flutter
 
